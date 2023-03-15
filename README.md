@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/tenryuubitu" target="blank"><img src="https://img.shields.io/twitter/follow/tenryuubitu?logo=twitter&style=for-the-badge" alt="tenryuubitu" /></a> </p>
 
+- 🛠️ I'm currently working on **web development project**
+
 - 🌱 I’m currently learning **React, React native, ML, DS**
 
 - 📫 How to reach me **a_bouzena@estin.dz**
