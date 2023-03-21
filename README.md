@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **a_bouzena@estin.dz**
 
-- ⚡ Fun fact **I'm a bookworm**
+- ⚡ Fun fact **I play Sudoku**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
