@@ -85,8 +85,8 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
 <img src="https://raw.githubusercontent.com/bouzenaali/bouzenaali/blob/output/snake.svg" alt="Snake animation" />
-
+ -->
 ###
