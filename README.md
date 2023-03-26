@@ -19,6 +19,7 @@
 - 🌱 I’m currently learning **Django, ML and DS**<br><br>
 - 📫 How to reach me **a_bouzena@estin.dz** <br><br>
 - ⚡ Fun fact **I play Sudoku**
+- 📝 I regularly write articles on **https://medium.com/@alibouzena16**
 
 ###
 
@@ -56,7 +57,6 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <div align="left">
@@ -72,8 +72,8 @@
   <a href="discordapp.com/users/Aliii#3434" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="a_bouzena@estin.dz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://medium.com/@alibouzena16" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
 
