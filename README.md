@@ -15,11 +15,11 @@
 ###
 
 
-- 🛠️ I'm currently working on **machine learning projects** <br><br>
-- 🌱 I’m currently learning **Django, ML and DS**<br><br>
-- 📫 How to reach me **a_bouzena@estin.dz** <br><br>
-- ⚡ Fun fact **I play Sudoku**
-- 📝 I regularly write articles on **https://medium.com/@alibouzena16**
+- 🛠️ I'm currently working on **machine learning projects** <br>
+- 🌱 I’m currently learning **Django, ML and DS**<br>
+- 📫 How to reach me **a_bouzena@estin.dz** <br>
+- ⚡ Fun fact **I play Sudoku** <br>
+- 📝 I regularly write articles on **https://medium.com/@alibouzena16**<br>
 
 ###
 
