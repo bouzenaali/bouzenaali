@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">CS student and a passionate frontend developer</h3>
+<h3 align="center">CS student and a passionate web developer</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">💫 About me</h2>
 
 ###
 <!-- 
@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">⚙️ Languages and Tools</h2>
 
 ###
 
@@ -82,7 +82,7 @@
 
 <br clear="both">
 
-<h2 align="left">My Github Stats</h2>
+<h2 align="left">🔥 My Github Stats</h2>
 
 ###
 
@@ -102,5 +102,8 @@
 
 <img src="https://raw.githubusercontent.com/bouzenaali/bouzenaali/blob/output/snake.svg" alt="Snake animation" />
  -->
-###
+## 
 
+
+<!--   grid-snake -->
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
