@@ -19,7 +19,7 @@
 * #### 🌱 I’m currently learning **Django, ML and DS**
 * #### 📫 How to reach me **a_bouzena@estin.dz** 
 * #### 📝 I regularly write articles on **https://medium.com/@alibouzena16**
-* #### ⚡ Fun fact **Optimism always wins** 
+* #### ⚡ **Optimism always wins** 
 
 ###
 
