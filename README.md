@@ -14,12 +14,12 @@
 
 ###
 
-* #### 🛠️ I'm currently working on **Backend projects** 
-* #### 🤝 I'm looking for collaboration on **Machine learning projects**
-* #### 🌱 I’m currently learning **Django, ML and DS**
-* #### 📫 How to reach me **a_bouzena@estin.dz** 
-* #### 📝 I regularly write articles on **https://medium.com/@alibouzena16**
-* #### ⚡ **Optimism always wins** 
+  🛠️ I'm currently working on **Backend projects** <br>
+  🤝 I'm looking for collaboration on **Machine learning projects** <br>
+  🌱 I’m currently learning **Django, ML and DS** <br>
+  📫 How to reach me **a_bouzena@estin.dz** <br>
+  📝 I regularly write articles on **https://medium.com/@alibouzena16** <br>
+  ⚡ **Optimism always wins** 
 
 ###
 
