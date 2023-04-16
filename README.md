@@ -1,6 +1,5 @@
-<h1 align="center">Hi👋  I'm Ali Bouzena</h1>
-
-###
+<!-- <h1 align="center">Hi👋  I'm Ali Bouzena</h1> -->
+ ###
 <!-- 
 <h3 align="center">CS student and a passionate web developer</h3> -->
 
