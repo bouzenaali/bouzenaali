@@ -102,7 +102,7 @@
  </div>
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bouzenaali&show_icons=true&theme=aura&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouzenaali&layout=compact&langs_count=6&theme=aura&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouzenaali&layout=compact&langs_count=8&theme=aura&hide_border=true" height="160" alt="languages graph"  />
  </div>
 
 ###
