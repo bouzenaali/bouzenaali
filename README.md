@@ -22,7 +22,8 @@
  &emsp;&emsp; 🌱 I’m currently learning **Django, ML and DS** <br>
  &emsp;&emsp; 📫 How to reach me **a_bouzena@estin.dz** <br>
  &emsp;&emsp; 📝 I regularly write articles on **https://medium.com/@alibouzena16** <br>
- &emsp;&emsp; 🚀 **Keeping the learning curve up** 
+ &emsp;&emsp; 🚀 **Keeping the learning curve up** <br>
+ &emsp;&emsp; ♟️ I'm currently discovering **the world of Chess**
 
 ###
 
