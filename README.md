@@ -25,7 +25,7 @@
 
 ###
 
- &emsp;&emsp; 🛠️ I'm currently working on **Automation projects using python** <br>
+ &emsp;&emsp; 🛠️ I'm currently working on **backend projects using Django** <br>
  &emsp;&emsp; 🤝 I'm looking for collaboration on **Machine learning projects** <br>
  &emsp;&emsp; 🌱 I’m currently learning **more about python** <br>
  &emsp;&emsp; 📫 How to reach me **a_bouzena@estin.dz** <br>
