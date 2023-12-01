@@ -30,9 +30,10 @@
  &emsp;&emsp; 🌱 I’m currently learning **more about python** <br>
  &emsp;&emsp; 📫 How to reach me **a_bouzena@estin.dz** <br>
  &emsp;&emsp; 📝 I regularly write articles on **https://medium.com/@alibouzena16** <br>
+<!--
  &emsp;&emsp; ♟️ I'm currently discovering **the world of Chess** <br>
  &emsp;&emsp; 🚀 **Keeping the learning curve up** <br>
-
+-->
 ###
 
 <br clear="both">
@@ -123,5 +124,6 @@
 ## 
 
 
-<!--   grid-snake -->
+<!--   grid-snake 
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+-->
