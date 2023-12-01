@@ -37,10 +37,11 @@
 ###
 
 <br clear="both">
-
+<!--
 <h2 align="left">⚙️ Languages and Tools</h2>
 
-###
+<!--
+
 
 <br clear="both">
 
@@ -69,7 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" width="42" alt="yarn logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="42" alt="numpy logo"  />
 </div>
-
+-->
 
 <h2 align="left">🌐 Socials</h2>
 
