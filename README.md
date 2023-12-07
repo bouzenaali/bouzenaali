@@ -29,7 +29,7 @@
  &emsp;&emsp; 🤝 I'm looking for collaboration on **Machine learning projects** <br>
  &emsp;&emsp; 🌱 I’m currently learning **more about python** <br>
  &emsp;&emsp; 📫 How to reach me **a_bouzena@estin.dz** <br>
- &emsp;&emsp; 📝 I regularly write articles on **https://medium.com/@alibouzena16** <br>
+ &emsp;&emsp; 📝 I regularly write articles on **[MEDIUM](https://medium.com/@alibouzena16)** <br>
 <!--
  &emsp;&emsp; ♟️ I'm currently discovering **the world of Chess** <br>
  &emsp;&emsp; 🚀 **Keeping the learning curve up** <br>
