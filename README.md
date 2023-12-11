@@ -30,6 +30,7 @@
  &emsp;&emsp; 🌱 I’m currently learning **more about python and C** <br>
  &emsp;&emsp; 📫 How to reach me **a_bouzena@estin.dz** <br>
  &emsp;&emsp; 📝 I regularly write articles on **[MEDIUM](https://medium.com/@alibouzena16)** <br>
+ &emsp;&emsp; 📽️ Fun fact I love **[CINEMA](https://boxd.it/6HGE9)** 
 <!--
  &emsp;&emsp; ♟️ I'm currently discovering **the world of Chess** <br>
  &emsp;&emsp; 🚀 **Keeping the learning curve up** <br>
