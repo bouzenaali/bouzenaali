@@ -25,12 +25,12 @@
 
 ###
 
- &emsp;&emsp; 🛠️ I'm currently working on **backend projects using Django** <br>
- &emsp;&emsp; 🤝 I'm looking for collaboration on a **C PROJECT** <br>
- &emsp;&emsp; 🌱 I’m currently learning **more about python and C** <br>
- &emsp;&emsp; 📫 How to reach me **a_bouzena@estin.dz** <br>
- &emsp;&emsp; 📝 I regularly write articles on **[MEDIUM](https://medium.com/@alibouzena16)** <br>
- &emsp;&emsp; 📽️ Fun fact I love **[CINEMA](https://boxd.it/6HGE9)** 
+ &emsp; 🛠️ I'm currently working on **backend projects using Django** <br>
+ &emsp; 🤝 I'm looking for collaboration on a **C PROJECT** <br>
+ &emsp; 🌱 I’m currently learning **more about python and C** <br>
+ &emsp; 📫 How to reach me **a_bouzena@estin.dz** <br>
+ &emsp; 📝 I regularly write articles on **[MEDIUM](https://medium.com/@alibouzena16)** <br>
+ &emsp; 📽️ Fun fact I love **[CINEMA](https://boxd.it/6HGE9)** 
 <!--
  &emsp;&emsp; ♟️ I'm currently discovering **the world of Chess** <br>
  &emsp;&emsp; 🚀 **Keeping the learning curve up** <br>
@@ -81,12 +81,12 @@
   <a href="https://www.linkedin.com/in/ali-bouzena-41791221b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.behance.net/alibouzena" target="_blank">
+  <a href="https://www.behance.net/bouzenaali" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
-  <a href="https://twitter.com/tenryuubitu" target="_blank">
+<!--   <a href="https://twitter.com/tenryuubitu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+  </a> -->
   <a href="https://discordapp.com/users/Aliii#3434" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
