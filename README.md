@@ -73,7 +73,8 @@
 </div>
 -->
 
-<h2 align="left">🌐 Socials</h2>
+<details>
+  <summary><h2>🌐 Socials</h2></summary>
 
 <br clear="both">
 
@@ -98,14 +99,12 @@
  </a>
 </div>
 
+</details>
 
 ###
 
-<br clear="both">
-
-<h2 align="left">🔥 My Github Stats</h2>
-
-###
+<details>
+  <summary><h2>🔥 My Github Stats</h2></summary>
 
 <br clear="both">
 
@@ -117,7 +116,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouzenaali&layout=compact&langs_count=8&theme=aura&hide_border=true" height="160" alt="languages graph"  />
  </div>
 
-###
+</details>
+
+
 
 <!-- <br clear="both">
 
