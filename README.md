@@ -17,13 +17,12 @@
 
 ###
 
-<h2 align="left">💫 About me</h2>
+<details>
+  <summary><h2>💫 About me</h2></summary>
 
-###
 <!-- 
 <img align="right" height="220" src="https://camo.githubusercontent.com/eefada90804e2564b4871e69fe1fb6c2f247f5821fc1be285fbf36abd0cb4c30/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3036663231613136313932313931392e363363643738383764306137302e676966"  /> -->
 
-###
 
  &emsp; 🛠️ I'm currently working on **backend projects using Django** <br>
  &emsp; 🤝 I'm looking for collaboration on a **C PROJECT** <br>
@@ -36,7 +35,7 @@
  &emsp;&emsp; 🚀 **Keeping the learning curve up** <br>
 -->
 ###
-
+</details>
 <br clear="both">
 <!--
 <h2 align="left">⚙️ Languages and Tools</h2>
