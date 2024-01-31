@@ -122,7 +122,7 @@
 
 <img src="https://raw.githubusercontent.com/bouzenaali/bouzenaali/blob/output/snake.svg" alt="Snake animation" />
  -->
-## 
+
 
 
 <!--   grid-snake 
