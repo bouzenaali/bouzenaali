@@ -25,7 +25,7 @@
 
 
  &emsp; 🛠️ I'm currently working on **a data aggregation projet** <br>
- &emsp; 🤝 I'm looking for collaboration on a **C PROJECT** <br>
+ &emsp; 🤝 I'm looking for collaboration on **ML/DL Projects** <br>
  &emsp; 🌱 I’m currently learning **more about deep learning and LLMs** <br>
  &emsp; 📫 How to reach me **a_bouzena@estin.dz** <br>
  &emsp; 📝 I regularly write articles on **[MEDIUM](https://medium.com/@alibouzena16)** <br>
