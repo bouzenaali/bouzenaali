@@ -16,14 +16,14 @@
 
 
 ###
-
+<!-- 
 <details>
   <summary>💫 <strong> About me</strong></summary>
 
 <!-- 
 <img align="right" height="220" src="https://camo.githubusercontent.com/eefada90804e2564b4871e69fe1fb6c2f247f5821fc1be285fbf36abd0cb4c30/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3036663231613136313932313931392e363363643738383764306137302e676966"  /> -->
 
-
+<!-- 
  &emsp; 🛠️ I'm currently working on **a data aggregation projet** <br>
  &emsp; 🤝 I'm looking for collaboration on **ML/DL Projects** <br>
  &emsp; 🌱 I’m currently learning **more about deep learning and LLMs** <br>
@@ -34,6 +34,7 @@
  &emsp;&emsp; ♟️ I'm currently discovering **the world of Chess** <br>
  &emsp;&emsp; 🚀 **Keeping the learning curve up** <br>
 -->
+<!-- 
 ###
 </details>
 
@@ -71,7 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="42" alt="numpy logo"  />
 </div>
 -->
-
+<!-- 
 <details>
   <summary>🌐 <strong>Socials</strong></summary>
 
@@ -87,6 +88,7 @@
 <!--   <a href="https://twitter.com/tenryuubitu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a> -->
+  <!-- 
   <a href="https://discordapp.com/users/Aliii#3434" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
